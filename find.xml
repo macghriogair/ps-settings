@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../project/src/AppBundle/Search/QueryHelper/AbstractQueryHelper.php [dav-drugbase]'" />
-    <option name="defaultScopeName" value="File '.../project/src/AppBundle/Search/QueryHelper/AbstractQueryHelper.php [dav-drugbase]'" />
-    <option name="SEARCH_SCOPE" value="File '.../project/src/AppBundle/Search/QueryHelper/AbstractQueryHelper.php [dav-drugbase]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
