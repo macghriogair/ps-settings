@@ -5,6 +5,7 @@
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".env.bak" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
