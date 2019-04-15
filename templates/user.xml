@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="issue" value=" TODO $TEXT$ see JR #[] @[$WHO$]" description="Create TODO comment w/ JIRA Issue" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="WHO" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

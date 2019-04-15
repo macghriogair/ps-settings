@@ -8,4 +8,12 @@
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern icon="question" pattern="\bissue\b.*" />
+    <filter name="TODO w/ Issue Ticket">
+      <pattern index="2" />
+    </filter>
+  </component>
 </application>
