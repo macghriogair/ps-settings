@@ -8,6 +8,7 @@
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".rsync-excludes" type="PLAIN_TEXT" />
+      <mapping ext="apib" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
