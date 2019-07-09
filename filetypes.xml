@@ -5,6 +5,7 @@
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".env.bak" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="schema2php" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".rsync-excludes" type="PLAIN_TEXT" />
