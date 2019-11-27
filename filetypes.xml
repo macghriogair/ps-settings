@@ -1,23 +1,26 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="load-fixtures" type="Bash" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env.bak" type="PLAIN_TEXT" />
       <mapping pattern="dfoo" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="ibm-export.sh" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".rsync-excludes" type="PLAIN_TEXT" />
-      <mapping ext="apib" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="apib" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
-      <removed_mapping pattern="schema2php" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="batch-import" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="schema2php" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="load-fixtures" type="Bash" />
     </extensionMap>
   </component>
 </application>
