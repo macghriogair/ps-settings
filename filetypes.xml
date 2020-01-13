@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="xdebug-enable" type="Native" />
+      <mapping pattern="console" type="PHP" />
       <mapping pattern="ibm-export.sh" type="PLAIN_TEXT" />
       <mapping pattern="sync-couchdb" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
