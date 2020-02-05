@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
-  <tool name="PHP CS Fixer" description="Apply php-cs-fixer to the current file." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="PHP CS Fixer" description="Apply php-cs-fixer to the current file." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/.composer/vendor/bin/php-cs-fixer" />
-      <option name="PARAMETERS" value="fix $FileDir$/$FileName$ --rules=@PSR2,no_unused_imports,blank_line_before_return,method_separation,no_empty_phpdoc,ordered_imports,standardize_not_equals,phpdoc_no_useless_inheritdoc,lowercase_cast,no_extra_consecutive_blank_lines,no_leading_import_slash,single_quote,return_type_declaration,phpdoc_single_line_var_spacing,phpdoc_separation,trailing_comma_in_multiline_array" />
+      <option name="PARAMETERS" value="fix $FileDir$/$FileName$ --rules=@PSR2,no_unused_imports,blank_line_before_return,method_separation,no_empty_phpdoc,ordered_imports,standardize_not_equals,phpdoc_no_useless_inheritdoc,lowercase_cast,no_extra_consecutive_blank_lines,no_leading_import_slash,single_quote,return_type_declaration,phpdoc_single_line_var_spacing,phpdoc_separation,trailing_comma_in_multiline_array,no_superfluous_phpdoc_tags" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
