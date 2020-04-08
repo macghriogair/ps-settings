@@ -21,6 +21,7 @@
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping pattern="set-initial-workflow-state" type="Shell Script" />
       <removed_mapping pattern="batch-import" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="schema2php" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="load-fixtures" type="Bash" />
