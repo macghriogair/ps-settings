@@ -6,9 +6,9 @@
       <mapping pattern="ibm-export.sh" type="PLAIN_TEXT" />
       <mapping pattern="sync-couchdb" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern=".aliases" type="PLAIN_TEXT" />
       <mapping pattern=".env.bak" type="PLAIN_TEXT" />
       <mapping pattern="dfoo" type="PLAIN_TEXT" />
-      <mapping pattern=".aliases" type="PLAIN_TEXT" />
       <mapping pattern=".env.acceptance" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
