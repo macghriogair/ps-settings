@@ -17,6 +17,7 @@
       <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="apib" type="PLAIN_TEXT" />
+      <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
