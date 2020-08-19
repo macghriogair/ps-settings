@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="PHP CS Fixer" description="Apply php-cs-fixer to the current file." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="PHP CS Fixer" description="Apply php-cs-fixer to the current file." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$ProjectFileDir$/project/vendor/bin/php-cs-fixer" />
       <option name="PARAMETERS" value="fix $FileDir$/$FileName$ --config=$ProjectFileDir$/project/.php_cs.dist" />
