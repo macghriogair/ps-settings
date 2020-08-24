@@ -3,28 +3,28 @@
     <extensionMap>
       <mapping pattern="xdebug-enable" type="Native" />
       <mapping pattern="console" type="PHP" />
-      <mapping pattern="sync-couchdb" type="PLAIN_TEXT" />
-      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".env.bak" type="PLAIN_TEXT" />
-      <mapping pattern="dfoo" type="PLAIN_TEXT" />
-      <mapping pattern=".aliases" type="PLAIN_TEXT" />
-      <mapping pattern=".env.acceptance" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="ibm-export.sh" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".rsync-excludes" type="PLAIN_TEXT" />
-      <mapping ext="orig" type="PLAIN_TEXT" />
-      <mapping ext="default" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
-      <mapping ext="apib" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
-      <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping pattern="dfoo" type="PLAIN_TEXT" />
+      <mapping pattern=".env.acceptance" type="PLAIN_TEXT" />
+      <mapping pattern=".aliases" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="sync-couchdb" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="default" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="apib" type="PLAIN_TEXT" />
+      <mapping ext="orig" type="PLAIN_TEXT" />
+      <mapping pattern="set-initial-workflow-state-fix-approved" type="Shell Script" />
       <mapping pattern="set-initial-workflow-state" type="Shell Script" />
       <mapping pattern="schema2php" type="Shell Script" />
-      <mapping pattern="set-initial-workflow-state-fix-approved" type="Shell Script" />
       <removed_mapping pattern="batch-import" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="schema2php" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="load-fixtures" type="Bash" />
