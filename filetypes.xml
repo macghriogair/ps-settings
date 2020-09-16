@@ -21,6 +21,7 @@
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="apib" type="PLAIN_TEXT" />
+      <mapping ext="vue" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping pattern="set-initial-workflow-state-fix-approved" type="Shell Script" />
       <mapping pattern="set-initial-workflow-state" type="Shell Script" />
