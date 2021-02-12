@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="xdebug-enable" type="Native" />
       <mapping pattern="console" type="PHP" />
-      <mapping pattern="ibm-export.sh" type="PLAIN_TEXT" />
       <mapping pattern=".env.bak" type="PLAIN_TEXT" />
+      <mapping pattern="ibm-export.sh" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="pimcore-export-consistency-check" type="PLAIN_TEXT" />
