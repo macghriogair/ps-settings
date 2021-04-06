@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="xdebug-enable" type="Native" />
       <mapping pattern="console" type="PHP" />
@@ -14,8 +14,8 @@
       <mapping pattern=".env.acceptance" type="PLAIN_TEXT" />
       <mapping pattern=".aliases" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="sync-couchdb" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
@@ -25,8 +25,8 @@
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="apib" type="PLAIN_TEXT" />
-      <mapping ext="vue" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".gitmodules" type="PLAIN_TEXT" />
       <mapping pattern="set-initial-workflow-state-fix-approved" type="Shell Script" />
       <mapping pattern="set-initial-workflow-state" type="Shell Script" />
       <mapping pattern="schema2php" type="Shell Script" />
