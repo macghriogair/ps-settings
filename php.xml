@@ -3,7 +3,7 @@
     <interpreters>
       <interpreter id="54bd323f-07b8-43a0-b591-99ec220dec9d" name="PHP 7.1" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="e6adb5a3-2168-4bdd-a3e0-ad43df742b00" name="docker_php-fpm:latest" home="docker://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="docker_php-fpm:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
+        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="docker_php-fpm:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
       </interpreter>
       <interpreter id="3bd71011-6201-4527-8371-3b85028e405a" name="PHP 7.2" home="/usr/local/Cellar/php@7.2/7.2.26/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="fbe90343-0780-4c15-93ce-be43e05571d2" name="PHP 7.4" home="/usr/local/Cellar/php/7.4.3/bin/php" debugger_id="php.debugger.XDebug" />
@@ -90,7 +90,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.1">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.1.23">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.3.24-(to be removed in future macOS)">
           <additional_php_ini />
           <configuration_file />
           <configuration_options>
@@ -128,9 +128,7 @@
             <extension name="openssl" />
             <extension name="pcre" />
             <extension name="pdo_mysql" />
-            <extension name="pdo_pgsql" />
             <extension name="pdo_sqlite" />
-            <extension name="pgsql" />
             <extension name="posix" />
             <extension name="readline" />
             <extension name="session" />
@@ -151,7 +149,6 @@
             <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
-            <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>
         </phpinfo>
