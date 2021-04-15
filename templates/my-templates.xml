@@ -1,5 +1,5 @@
 <templateSet group="my-templates">
-  <template name="die" value="die('__END__');" toReformat="false" toShortenFQNames="true">
+  <template name="die" value="die('__END__');" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
