@@ -7,7 +7,7 @@
       </interpreter>
       <interpreter id="3bd71011-6201-4527-8371-3b85028e405a" name="PHP 7.2" home="/usr/local/Cellar/php@7.2/7.2.26/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="fbe90343-0780-4c15-93ce-be43e05571d2" name="PHP 7.4" home="/usr/local/Cellar/php/7.4.3/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="1def9b98-cacd-4ca1-9d38-c1c573bb7a4b" name="PHP 8.0" home="/usr/local/Cellar/php/8.0.0_1/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="1def9b98-cacd-4ca1-9d38-c1c573bb7a4b" name="PHP 8.0" home="/usr/local/Cellar/php/8.0.3/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -154,11 +154,11 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 8.0">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.0.0_1/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.0.0_1/bin/php" path_separator=":" version="8.0.0">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.0.3/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.0.3/bin/php" path_separator=":" version="8.0.3">
           <additional_php_ini>/usr/local/etc/php/8.0/conf.d/ext-opcache.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/8.0/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.0.0_1/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.0.3/share/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
