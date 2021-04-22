@@ -2,4 +2,11 @@
   <template name="eco" value="echo &quot;$END$&quot;;" description="'echo' statement" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
+  <template name="dec" value="declare(strict_types = 1);&#10;" description="declare" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
+      <option name="PHP Interface Member" value="true" />
+      <option name="PHP Trait Member" value="true" />
+    </context>
+  </template>
 </templateSet>
