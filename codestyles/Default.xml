@@ -16,6 +16,7 @@
     <option name="SPACE_BEFORE_COLON_IN_RETURN_TYPE" value="true" />
   </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
+    <option name="RIGHT_MARGIN" value="100" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
@@ -30,5 +31,6 @@
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
+    <option name="SOFT_MARGINS" value="100" />
   </codeStyleSettings>
 </code_scheme>
