@@ -30,6 +30,7 @@
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="apib" type="PLAIN_TEXT" />
+      <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping pattern="schema2php" type="Shell Script" />
       <mapping pattern="set-initial-workflow-state-fix-approved" type="Shell Script" />
