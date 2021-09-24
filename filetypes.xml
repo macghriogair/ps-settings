@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".env.prod" type="AUTO_DETECTED" />
       <mapping pattern="xdebug-enable" type="Native" />
       <mapping pattern="console" type="PHP" />
       <mapping pattern="ibm-export.sh" type="PLAIN_TEXT" />
