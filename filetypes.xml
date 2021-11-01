@@ -25,6 +25,7 @@
       <mapping pattern=".aliases" type="PLAIN_TEXT" />
       <mapping pattern="sync-couchdb" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev.local" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
