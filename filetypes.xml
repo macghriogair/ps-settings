@@ -46,6 +46,7 @@
       <mapping pattern="schema2php" type="Shell Script" />
       <mapping pattern="set-initial-workflow-state-fix-approved" type="Shell Script" />
       <mapping pattern="set-initial-workflow-state" type="Shell Script" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern="batch-import" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="schema2php" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="load-fixtures" type="Bash" />
