@@ -20,6 +20,7 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.babylon" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dbdev02" type="PLAIN_TEXT" />
       <mapping pattern=".env.acceptance" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.test.local" type="PLAIN_TEXT" />
