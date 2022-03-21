@@ -1,13 +1,13 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="docker postgres local" uuid="da398c7c-dd92-47ae-a05c-7b651df12db3">
+    <data-source source="LOCAL" name="0_docker postgres local" uuid="da398c7c-dd92-47ae-a05c-7b651df12db3">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://127.0.0.1:5432/docker</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="dbdev02 postgres" uuid="aab14031-51d7-4c71-b899-1d754e950967">
+    <data-source source="LOCAL" name="1_dbdev02 postgres" uuid="aab14031-51d7-4c71-b899-1d754e950967">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
