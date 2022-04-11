@@ -25,7 +25,6 @@
       <mapping pattern=".env.acceptance" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.test.local" type="PLAIN_TEXT" />
-      <mapping pattern=".gitmodules" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="dfoo" type="PLAIN_TEXT" />
       <mapping pattern=".rsync-excludes" type="PLAIN_TEXT" />
@@ -52,6 +51,7 @@
       <mapping pattern="set-initial-workflow-state-fix-approved" type="Shell Script" />
       <mapping pattern="set-initial-workflow-state" type="Shell Script" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
+      <removed_mapping pattern=".gitignore" approved="true" type="GitIgnore file" />
       <removed_mapping pattern="batch-import" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="schema2php" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="load-fixtures" type="Bash" />
