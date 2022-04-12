@@ -1,4 +1,10 @@
 <keymap version="1" name="Patricks Keys" parent="Mac OS X 10.5+">
+  <action id="ActivateBookmarksToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 2" />
+  </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="ActivateStructureToolWindow" />
   <action id="ChangesView.Diff" />
   <action id="ChangesView.GroupBy.Directory" />
@@ -18,9 +24,11 @@
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
