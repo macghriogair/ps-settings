@@ -4,6 +4,8 @@
       <mapping pattern="goo" type="AUTO_DETECTED" />
       <mapping pattern="perm2php" type="AUTO_DETECTED" />
       <mapping pattern="db-perm-2-php" type="AUTO_DETECTED" />
+      <mapping pattern="perm2php-auth" type="AUTO_DETECTED" />
+      <mapping pattern="perm2php-evo" type="AUTO_DETECTED" />
       <mapping pattern="ng" type="AUTO_DETECTED" />
       <mapping pattern="ci-phpstan" type="AUTO_DETECTED" />
       <mapping pattern="foo" type="AUTO_DETECTED" />
