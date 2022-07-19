@@ -11,7 +11,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://dbdev02.babylon.foo.ag:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://dbdev02.babylon.foo.ag:5432/fondsnethp</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
