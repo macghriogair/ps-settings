@@ -21,5 +21,12 @@
       <jdbc-url>jdbc:postgresql://127.0.0.1:13432/postgres</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="3_abnahme-db02.fondsnet.de" uuid="c893bc01-8615-477e-a066-726766c643fc">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://db02.fondsnet.de:7432/fondsnethp</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
