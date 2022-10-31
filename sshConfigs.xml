@@ -2,6 +2,9 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="OPEN_SSH" host="sdh01.fondsnet.de" id="76441569-9395-4cea-b2b3-424e18030d12" port="22" nameFormat="DESCRIPTIVE" username="deployer" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="edh01.fondsnet.de" id="e4dad859-e8a5-481f-b153-78f12dd00149" port="22" customName="deployer@edh01.fondsnet.de:22" nameFormat="CUSTOM" username="deployer" useOpenSSHConfig="true">
+        <option name="customName" value="deployer@edh01.fondsnet.de:22" />
+      </sshConfig>
     </configs>
   </component>
 </application>
