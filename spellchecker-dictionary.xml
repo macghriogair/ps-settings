@@ -4,6 +4,7 @@
       <w>depotstand</w>
       <w>hasher</w>
       <w>persister</w>
+      <w>transliterator</w>
     </words>
   </component>
 </application>
