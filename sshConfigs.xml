@@ -1,9 +1,12 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" host="sdh01.fondsnet.de" id="76441569-9395-4cea-b2b3-424e18030d12" port="22" nameFormat="DESCRIPTIVE" username="deployer" useOpenSSHConfig="true" />
-      <sshConfig authType="OPEN_SSH" host="edh01.fondsnet.de" id="e4dad859-e8a5-481f-b153-78f12dd00149" port="22" customName="deployer@edh01.fondsnet.de:22" nameFormat="CUSTOM" username="deployer" useOpenSSHConfig="true">
-        <option name="customName" value="deployer@edh01.fondsnet.de:22" />
+      <sshConfig authType="OPEN_SSH" host="github.com" id="5753e7d7-d853-45dc-8a29-26e8f36b1b6c" nameFormat="DESCRIPTIVE" username="macghriogair" />
+      <sshConfig authType="OPEN_SSH" host="sdh01.fondsnet.de" id="62f3d49e-e7dd-492f-85e2-206c41802628" port="22" customName="DEVTESTSTAGE_deployer@sdh01.fondsnet.de:22" nameFormat="CUSTOM" username="deployer" useOpenSSHConfig="true">
+        <option name="customName" value="DEVTESTSTAGE_deployer@sdh01.fondsnet.de:22" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="edh01.fondsnet.de" id="7236e26f-e6ab-4446-93f8-561748457562" port="22" customName="PROD_deployer@edh01.fondsnet.de:22" nameFormat="CUSTOM" username="deployer" useOpenSSHConfig="true">
+        <option name="customName" value="PROD_deployer@edh01.fondsnet.de:22" />
       </sshConfig>
     </configs>
   </component>
