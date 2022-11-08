@@ -2,7 +2,6 @@
   <component name="IgnoredPluginSuggestions">
     <option name="pluginIds">
       <list>
-        <option value="intellij.webpack" />
         <option value="org.intellij.plugins.postcss" />
       </list>
     </option>
