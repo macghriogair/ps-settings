@@ -10,6 +10,7 @@
     <option name="disabledCodeVisionProviderIds">
       <set>
         <option value="references" />
+        <option value="vcs.code.vision" />
       </set>
     </option>
   </component>
@@ -22,7 +23,7 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value=".references" />
+    <option name="lastViewedProviderKeyId" value="PHP.parameter.hints.old.php.show.names.for.all.args" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
