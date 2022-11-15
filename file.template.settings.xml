@@ -1,0 +1,8 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <code_templates>
+      <template name="PHP Constructor.php" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="TypeScript Implemented Method Body.ts" reformat="true" live-template-enabled="true" enabled="true" />
+    </code_templates>
+  </component>
+</application>
