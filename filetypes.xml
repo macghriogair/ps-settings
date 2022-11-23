@@ -38,19 +38,19 @@
       <mapping pattern="sync-couchdb" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev.local" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
-      <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
-      <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="apib" type="PLAIN_TEXT" />
       <mapping ext="dump" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="orig" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="schema2php" type="Shell Script" />
       <mapping pattern="set-initial-workflow-state-fix-approved" type="Shell Script" />
       <mapping pattern="set-initial-workflow-state" type="Shell Script" />
