@@ -51,6 +51,7 @@
       <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="schema2php" type="Shell Script" />
       <mapping pattern="set-initial-workflow-state-fix-approved" type="Shell Script" />
       <mapping pattern="set-initial-workflow-state" type="Shell Script" />
