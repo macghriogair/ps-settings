@@ -18,5 +18,6 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="ide.tree.ui.experimental" value="false" />
+    <entry key="ide.intellij.laf.enable.animation" value="true" />
   </component>
 </application>
