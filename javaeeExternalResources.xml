@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.liquibase.org/xml/ns/dbchangelog" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2022.2/extResources/32cd3aba_dbchangelog-3.3.xsd" />
+    <resource url="http://www.liquibase.org/xml/ns/dbchangelog-ext" location="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2022.2/extResources/99f6323_dbchangelog-ext.xsd" />
+  </component>
+</application>
